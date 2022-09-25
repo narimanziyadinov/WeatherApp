@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Погода</string>
+    <string name="temp">%1$s °C</string>
+    <string name="min_temp">Минимум: %1$s °C</string>
+    <string name="max_temp">Максимум: %1$s °C</string>
+    <string name="humidity">Влажность: %1$s процентов</string>
+    <string name="wind">Ветер: %1$s km/h</string>
+    <string name="pressure">Давление: %1$s mm</string>
+    <string name="direction">Направление: %1$s</string>
+    <string name="clouds">Облака: %1$s процентов</string>
+    <string name="loading">Загрузка…</string>
+    <string name="query_city">Найдите город</string>
+    <string name="extensions">Extensions</string>
+    <string name="choose_the_city">Выберите город</string>
+    <string name="name">Название города</string>
+    <string name="calendar">%1$s %2$s %3$s</string>
+    <string name="week_forecast">7-дневный прогноз</string>
+    <string name="monday">Понедельник</string>
+    <string name="tuesday">Вторник</string>
+    <string name="wednesday">Среда</string>
+    <string name="thursday">Четверг</string>
+    <string name="friday">Пятница</string>
+    <string name="saturday">Суббота</string>
+    <string name="sunday">Воскресенье</string>
+    <string name="unknown_error">Неизвестная ошибка</string>
+    <string name="empty_field">Поле не может быть пустым</string>
+    <string name="confirm">Подтвердить</string>
+</resources>
