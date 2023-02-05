@@ -6,6 +6,7 @@ API [OpenWeatherMap](https://openweathermap.org/)
 <h2 id="Stack">Stack</h2>
 <li>MVVM</li>
 <li>Clean Architecture</li>
+<li>Single Activity</li>
 <li>Hilt</li>
 <li>Navigation</li>
 <li>SafeArgs</li>
